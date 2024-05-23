@@ -4,6 +4,7 @@ layout: default
 
 # SPARQL QUERIES
 
+
 ## Are there any military uniforms in the clothing description ontology?
 ```js
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
