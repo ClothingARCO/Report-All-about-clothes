@@ -51,14 +51,16 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+# DISCUSSION
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Problem        | Solution         | 
+|:-------------|:------------------|
+| There is a lot of information 
+on the ARCO ontology| We had to limit a few results because the 
+query took so much time to charge results| 
+| out of stock | good and plenty   | 
+| ok           | good `oreos`      | 
+| ok           | good `zoute` drop | 
 
 ### There's a horizontal rule below this.
 
