@@ -15,7 +15,7 @@ In the following parts you will have information about the methodology, results 
 > The tools used for developing this project were: 
 >
 *  GITHUB
-  ![Github-Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png width="200" height="250")
+  ![Github-Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
 *  SPARQL 
 *  ARCO
 - LLMS
