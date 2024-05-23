@@ -40,7 +40,7 @@ In the following parts you will have information about the methodology, results 
 | Some information from the ARCO clothing ontology did not appear, as it is the case of bottom items. | We decided to use the general clothing information. | 
 | There were some results which belonged to different ontologies.    | We searched for more specific vocabulary to use and checked the prefixes.     | 
 
-# [ALL ABOUT THE CREATORS](./another-page3.html).
+# [ABOUT THE CREATORS](./another-page3.html).
 ```
 Thank you for your attention. Hope you learned and enjoied.
 ```
