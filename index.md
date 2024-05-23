@@ -10,7 +10,7 @@ It focuses on analyzing and using knowledge graphs from ARCO and Large Language 
 In the following parts you will have information about the methodology, results and analysis, discussion, conclusion and possible future developments.
 
 
-# [METHODOLOGY](./another-page.html).
+# [METHODOLOGY](./aMethodology.html).
 
 > The tools used for developing this project were: 
 >
