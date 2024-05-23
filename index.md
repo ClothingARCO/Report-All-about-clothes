@@ -15,11 +15,13 @@ In the following parts you will have information about the methodology, results 
 > The tools used for developing this project were: 
 >
 *  GITHUB
+  ![Github-Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
 *  SPARQL 
 *  ARCO
-*  CHAT GPT
-*  GEMINI
-*  LLAMA
+*  *  - LLMS
+  - CHAT GPT
+  - GEMINI
+  - LLAMA
 *  Class material
 
 ### Header 3
@@ -53,18 +55,13 @@ end
 
 # DISCUSSION
 
-| Problem        | Solution         | 
+| Problem        | Solution        | 
 |:-------------|:------------------|
-| There is a lot of information 
-on the ARCO ontology| We had to limit a few results because the 
-query took so much time to charge results| 
-| out of stock | good and plenty   | 
-| ok           | good `oreos`      | 
-| ok           | good `zoute` drop | 
+| There is a lot of information on the ARCO ontology| We had to limit a few results because the query took so much time to charge results| 
+| Some information from the ARCO clothing ontology did not appear, as it is the case of bottom items. | We decided to use the general clothing information. | 
+| There were some results which belonged to different ontologies.    | We searched for more specific vocabulary to use and checked the prefixes.     | 
 
-### There's a horizontal rule below this.
 
-* * *
 
 ### Here is an unordered list:
 
