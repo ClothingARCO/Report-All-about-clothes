@@ -4,3 +4,4 @@
 ## ALENA VULF
 ## LAURA PODARU
 ## JULIANA TAPIA
+![JULIANA](JulianaTapia.jpg)
