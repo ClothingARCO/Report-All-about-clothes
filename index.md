@@ -21,7 +21,7 @@ In the following parts you will have information about the methodology, results 
   ![SPARQL](https://clhwogtywa.cloudimg.io/www.census.de/wp-content/uploads/sparql-logo-scaled.jpg)
 
 *  ARCO
-  ![ARCO](https://lh4.googleusercontent.com/proxy/GXb1GFVnL8_tns9GgJszJrHXPqCxHGanaC_pZZydq7fx6CCnWLq1Zb-g-TQ_xMohwYzuoYiRxJyIY8LXsYIR4a1d7oq6Z89XAihn0p_SN5Mr-GgwhZjPGA)
+  ![ARCO website](https://lh4.googleusercontent.com/proxy/GXb1GFVnL8_tns9GgJszJrHXPqCxHGanaC_pZZydq7fx6CCnWLq1Zb-g-TQ_xMohwYzuoYiRxJyIY8LXsYIR4a1d7oq6Z89XAihn0p_SN5Mr-GgwhZjPGA)
 
 - LLMS
   - CHAT GPT
@@ -40,7 +40,7 @@ In the following parts you will have information about the methodology, results 
 | Some information from the ARCO clothing ontology did not appear, as it is the case of bottom items. | We decided to use the general clothing information. | 
 | There were some results which belonged to different ontologies.    | We searched for more specific vocabulary to use and checked the prefixes.     | 
 
-
+# [METHODOLOGY](./another-page3.html).
 ```
 Thank you for your attention. Hope you learned and enjoied.
 ```
