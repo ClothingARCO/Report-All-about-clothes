@@ -1,27 +1,26 @@
 ---
 layout: default
 ---
+# INTRODUCTION
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to our website, we are Laura, Alena, Aurora and Juliana. This project is part of an academic assessment for the "Information and Technology Skills" course in the Master's program "Language, Society, and Communication" at the University of Bologna.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Introduction
-
-Welcome to our website, we are Laura, Alena, Aurora and Juliana. This project is part of an academic assessment for the "Information and Technology Skills" course in the Master's program "Language, Society, and Communication" at the University of Bologna. 
 It focuses on analyzing and using knowledge graphs from ARCO and Large Language Models. The selected ARCO ontology was about clothing description. The main goal of using this ontology is to explore clothing characteristics and compare LLMS with the better option to enrich the knowledge graph.
+
 In the following parts you will have information about the methodology, results and analysis, discussion, conclusion and possible future developments.
 
 
-## Header 2
+# METHODOLOGY  [Link to another page](./another-page.html).
 
-> This is a blockquote following a header.
+> The tools used for developing this project were: 
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+*  GITHUB
+*  SPARQL 
+*  ARCO
+*  CHAT GPT
+*  GEMINI
+*  LLAMA
+*  Class material
 
 ### Header 3
 
