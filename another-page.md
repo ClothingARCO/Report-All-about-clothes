@@ -20,7 +20,7 @@ Take into account that Craftsmanship is the skill that someone uses when they ma
 4. Could you use the ArCo clothing ontology? 
 
 >
-## [SPARQL QUERIES](./another-page2.html).
+## [SPARQL QUERIES](./another-page2.html)
 
 
 [back](./)
