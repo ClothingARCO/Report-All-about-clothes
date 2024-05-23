@@ -18,7 +18,7 @@ In the following parts you will have information about the methodology, results 
   ![Github-Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
 *  SPARQL 
 *  ARCO
-*  *  - LLMS
+- LLMS
   - CHAT GPT
   - GEMINI
   - LLAMA
