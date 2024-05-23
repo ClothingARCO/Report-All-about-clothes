@@ -19,6 +19,7 @@ Take into account that Craftsmanship is the skill that someone uses when they ma
 3. Could you transform this description into RDF format? Explain the process for getting this RDF format. 
 4. Could you use the ArCo clothing ontology? 
 
+
 # [SPARQL QUERIES](./another-page2.html).
 
 
