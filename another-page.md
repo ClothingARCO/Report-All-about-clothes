@@ -4,7 +4,7 @@ layout: default
 
 # METHODOLOGY
 >
-## Prompting techniques
+## PROMPTING TECHNIQUES
 
 The LLMS used were: CHAT GPT, LLAMA,  GEMINI.
 
