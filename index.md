@@ -18,7 +18,7 @@ In the following parts you will have information about the methodology, results 
 ![Github-Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/100px-GitHub_Invertocat_Logo.svg.png)
 
 *  SPARQL
-![SPARQL](https://clhwogtywa.cloudimg.io/www.census.de/wp-content/uploads/100px-sparql-logo-scaled.jpg)
+![SPARQL](https://clhwogtywa.cloudimg.io/www.census.de/wp-content/uploads/sparql-logo-scaled.jpg)
 
 *  ARCO
 ![ARCO website](https://lh4.googleusercontent.com/proxy/GXb1GFVnL8_tns9GgJszJrHXPqCxHGanaC_pZZydq7fx6CCnWLq1Zb-g-TQ_xMohwYzuoYiRxJyIY8LXsYIR4a1d7oq6Z89XAihn0p_SN5Mr-GgwhZjPGA)
@@ -29,7 +29,7 @@ In the following parts you will have information about the methodology, results 
   - LLAMA
     
 *  Class material
-   ![ARCO](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Seal_of_the_University_of_Bologna.svg/1200px-Seal_of_the_University_of_Bologna.svg.png)
+   ![ARCO](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Seal_of_the_University_of_Bologna.svg/100px-Seal_of_the_University_of_Bologna.svg.png)
   
 
 # DISCUSSION
