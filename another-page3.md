@@ -18,14 +18,17 @@ Università di Bologna
 
 Language, Society and Communication - Laurea Magistrale
 
+Saint Petersburg, Russia
+
 ## LAURA PODARU
 
 ![LAURA](LauraPodaru.jpeg)
 
 Università di Bologna
-Modena, Italy
 
 Language, Society and Communication - Laurea Magistrale
+
+Modena, Italy
 
 ## JULIANA TAPIA
 
