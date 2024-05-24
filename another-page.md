@@ -6,9 +6,9 @@ layout: default
 >
 ## PROMPTING TECHNIQUES
 
-The **LLMS** used were: CHAT GPT, LLAMA,  GEMINI.
+The LLMS used were: CHAT GPT, LLAMA,  GEMINI.
 
-The prompting techniques used were Zero-shot Prompting, Few-Shot Prompting, Chain-of-thought, and Generated-knowledge-prompting. To enrich the knowledge graph we asked the following questions:
+**The prompting techniques used were Zero-shot Prompting, Few-Shot Prompting, Chain-of-thought, and Generated-knowledge-prompting. To enrich the knowledge graph we asked the following questions:**
 1. Enhance the "a-cd:subject" Relationship
 Cultural Property: Cappotto, maschile – Novità Confezioni Italiane Eleganza (XX secolo)
 Owner: Damiano Chiesa
@@ -28,28 +28,28 @@ Enhance the "a-cd:subject" Relationship
 Cultural Property: Cappotto, maschile – Novità Confezioni Italiane Eleganza (XX secolo)
 Owner: Damiano Chiesa
 
-What are the craftsmanship techniques used in the 'Cappotto, maschile – Novità Confezioni Italiane Eleganza'?
+**What are the craftsmanship techniques used in the 'Cappotto, maschile – Novità Confezioni Italiane Eleganza'?**
 Take into account that Craftsmanship is the skill that someone uses when they make beautiful things with their hands.
 
-- Chat GPT
+**- Chat GPT**
 
 The craftsmanship techniques used in the 'Cappotto, maschile – Novità Confezioni Italiane Eleganza' can vary depending on the specific details and construction of the coat. However, here are some common craftsmanship techniques that may be employed:
 
-1. **Tailoring:** This involves the precise cutting and sewing of fabric to create a garment that fits well and has clean lines. Tailoring techniques may include hand-sewing, machine sewing, and pattern drafting.
+1. Tailoring: This involves the precise cutting and sewing of fabric to create a garment that fits well and has clean lines. Tailoring techniques may include hand-sewing, machine sewing, and pattern drafting.
 
-2. **Stitching:** Various types of stitching may be used in the construction of the coat, including hand stitches like backstitch, slip stitch, and blind hem stitch, as well as machine stitches like straight stitch and zigzag stitch.
+2. Stitching: Various types of stitching may be used in the construction of the coat, including hand stitches like backstitch, slip stitch, and blind hem stitch, as well as machine stitches like straight stitch and zigzag stitch.
 
-3. **Detailing:** Craftsmanship often involves intricate detailing to enhance the aesthetic appeal of the garment. This may include decorative stitching, embroidery, appliqué, or embellishments like buttons, beads, or sequins.
+3. Detailing: Craftsmanship often involves intricate detailing to enhance the aesthetic appeal of the garment. This may include decorative stitching, embroidery, appliqué, or embellishments like buttons, beads, or sequins.
 
-4. **Finishing:** Finishing techniques are used to refine the appearance and durability of the coat. This may involve techniques such as seam finishing (e.g., serging, French seams), edge stitching, pressing, and hand-finishing details.
+4. Finishing: Finishing techniques are used to refine the appearance and durability of the coat. This may involve techniques such as seam finishing (e.g., serging, French seams), edge stitching, pressing, and hand-finishing details.
 
-5. **Fabric manipulation:** Craftsmen may use various techniques to manipulate the fabric to achieve desired effects, such as pleating, gathering, tucking, or draping.
+5. Fabric manipulation: Craftsmen may use various techniques to manipulate the fabric to achieve desired effects, such as pleating, gathering, tucking, or draping.
 
-6. **Handwork:** Many high-quality garments feature handwork, where skilled artisans perform tasks that cannot be replicated by machines. This may include hand-rolled hems, hand-sewn buttonholes, hand-applied trims, or hand-beading.
+6. Handwork: Many high-quality garments feature handwork, where skilled artisans perform tasks that cannot be replicated by machines. This may include hand-rolled hems, hand-sewn buttonholes, hand-applied trims, or hand-beading.
 
 These are just a few examples of the craftsmanship techniques that could be used in the creation of the 'Cappotto, maschile – Novità Confezioni Italiane Eleganza'. Each garment is unique, and the specific techniques employed may vary based on the designer's vision, the materials used, and the desired aesthetic and functionality of the coat.
 
-- LLAMA
+- **LLAMA**
 
 What a remarkable cultural property! The "Cappotto, maschile – Novità Confezioni Italiane Eleganza" (Male Coat – Italian Elegant Fashion Novelties) is a magnificent showcase of Italian craftsmanship, especially in tailoring. Let's explore some of the craftsmanship techniques employed in crafting this exquisite piece:
 
@@ -67,7 +67,7 @@ Quality Control: Rigorous quality control ensures the coat meets the highest sta
 
 The "Cappotto, maschile – Novità Confezioni Italiane Eleganza" is a masterpiece, epitomizing Italian craftsmanship. Its attention to detail, precision, and quality exemplify Italy's rich tradition of tailoring and fashion design.
     
-- GEMINI
+- **GEMINI**
 
 Here's how you can enhance the "a-cd:subject" relationship to describe potential craftsmanship techniques used in the "Cappotto, maschile – Novità Confezioni Italiane Eleganza (XX secolo)" even though we don't have specific details:
 
@@ -110,9 +110,9 @@ Replace the example URIs with the actual URIs from the relevant ontologies.
 
 
 
-Can you extract exactly what the main topics are based on this answer?
+**Can you extract exactly what the main topics are based on this answer?**
 
-- Chat GPT
+**- Chat GPT**
 
   Sure, here are the main topics extracted from the answer:
 1. Tailoring techniques
@@ -122,7 +122,7 @@ Can you extract exactly what the main topics are based on this answer?
 5. Fabric manipulation
 6. Handwork and artisanal techniques
 
-- LLAMA
+**- LLAMA**
 
 Based on the answer, the main topics are:
 1. Cutting
@@ -133,7 +133,7 @@ Based on the answer, the main topics are:
 6. Quality control
 These topics relate to the craftsmanship techniques used in the creation of the "Cappotto, maschile – Novità Confezioni Italiane Eleganza" cultural property.
 
-- GEMINI
+- **GEMINI**
 
 The main topics covered in this answer are:
 1. Cultural Property: Men's Coat (Cappotto, maschile)
@@ -155,10 +155,10 @@ The main topics covered in this answer are:
 
    
 
-Could you transform this description into RDF format? Explain the process for getting this RDF format.
+**Could you transform this description into RDF format? Explain the process for getting this RDF format.**
 
 
-- Chat GPT
+- **Chat GPT**
 
 To transform the given description into RDF format, we can use the RDF Schema (RDFS) vocabulary to define classes and properties, and then create RDF triples representing the data. Here's how we can do it:
 
@@ -206,7 +206,7 @@ In this RDF representation:
 
 You can follow similar steps to represent other entities and properties from the description in RDF format.
  
-- LLAMA
+- **LLAMA**
  
  To transform the description into RDF (Resource Description Framework) format, I'll follow these steps:
 1. Identify the entities: Extract the main entities mentioned in the description, such as the cultural property, techniques, and materials.
@@ -248,9 +248,9 @@ rdfs:comment "The process of inspecting the coat for defects or imperfections.".
 In this RDF representation:
 * `<http://example.org/CappottoMaschile>` is the URI for the cultural property, "Cappotto, maschile – Novità Confezioni Italiane Eleganza".
 * The `dc:title` and `dc:description` properties provide
-------------------------------------------------------------------------------------------------------------------------------------------  
-- GEMINI
---------------------------------------------------------------------------------------------------------------------------------------------
+  
+- **GEMINI**
+
  Absolutely! Here's the description transformed into RDF format using the approach we discussed:
 
 **Part 1: Description of the Coat**
@@ -301,10 +301,10 @@ This approach provides a more comprehensive representation of the available info
 
 
 
-Could you use the ArCo clothing ontology?
+**Could you use the ArCo clothing ontology?**
 
 
-- Chat GBT
+- **Chat GBT**
 
 Certainly! We can use the ArCo (Archivio dei beni culturali) ontology, which provides a standardized way to represent cultural heritage assets, including clothing items and related concepts. Here's how we can represent the given description using the ArCo ontology:
 
@@ -344,7 +344,7 @@ In this RDF representation:
 
 This RDF representation adheres to the ArCo ontology standards, making it compatible with other cultural heritage data represented using ArCo. You can replace `<http://example.org/>` with your preferred namespace URI.
 
-- LLAMA
+- **LLAMA**
 
 The ArCo clothing ontology is a great choice for describing the Cappotto, maschile. Here's the rewritten RDF code using the ArCo ontology:
 ```
@@ -368,11 +368,11 @@ arco:uses arco:QualityControl.
 In this code, I've used the ArCo ontology to describe the Cappotto, maschile as a garment, specifying its type as an overcoat. I've also used ArCo properties to describe the garment's designer, owner, and the various craftsmanship techniques used in its creation.
 Note that I've used the `a` keyword to indicate that the Cappotto, maschile is an instance of the `arco:Garment` class. I've also used ArCo properties such as `arco:hasType`, `arco:hasDesigner`, and `arco:hasOwner` to describe the garment's characteristics.
 
-- GEMINI
+- **GEMINI**
 
 Certainly! Here's the description transformed into RDF format using the ArCo clothing ontology with the two-part approach:
 
-**Part 1: Description of the Coat**
+Part 1: Description of the Coat
 
 ```rdf
 <rdf:Description rdf:about="http://example.org/cappotto_maschile">
@@ -410,25 +410,25 @@ You can further enrich this description by adding more techniques relevant to 20
 
 This approach leverages the ArCo ontology for the coat itself and for describing potential tailoring techniques used during the creation of the garment. 
 
- Question 1: Craftsmanship Techniques: When asked about the craftsmanship techniques used in a specific item of clothing:
+ **Question 1: Craftsmanship Techniques: When asked about the craftsmanship techniques used in a specific item of clothing:**
 
  - ChatGPT might provide a more detailed and context-rich description due to its extensive training.
  - LLAMA might offer a concise response, focusing on the key points without much elaboration.
  - Gemini might vary, potentially showing strengths in certain niche topics depending on its training data
 
- Question 2: Main Topics Extraction: In zero-shot prompting:
+ **Question 2: Main Topics Extraction: In zero-shot prompting:**
 
  - ChatGPT's answer might be comprehensive, leveraging its broad training data to cover multiple aspects.       
  - LLAMA might provide a more direct and focused list.      
  - Gemini could differ in its ability to extract and prioritize topics based on its unique training and tuning.
 
- Question 3: RDF Format Transformation: Chain-of-thought prompting:
+ **Question 3: RDF Format Transformation: Chain-of-thought prompting:**
 
  - ChatGPT is likely to break down the steps in a detailed manner.
  - LLAMA might provide a step-by-step guide but in a more concise format.
  - Gemini might show variability in depth and clarity based on how well it was trained on similar tasks.
 
- Question 4: Using ArCo Ontology: Generated-knowledge prompting:
+ **Question 4: Using ArCo Ontology: Generated-knowledge prompting:**
 
  - ChatGPT might integrate previous responses effectively, providing a coherent and contextually aware answer.
  - LLAMA might excel in consistency and relevance.
