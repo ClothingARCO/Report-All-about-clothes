@@ -14,26 +14,28 @@ In the following parts you will have information about the methodology, results 
 
 > The tools used for developing this project were: 
 >
-*  GITHUB
- 
+*  GITHUB 
 ![Github-Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/100px-GitHub_Invertocat_Logo.svg.png)
 
-*  SPARQL
-  
+*  SPARQL  
 ![SPARQL](sparkl.png) 
-*  ARCO
-  
-![AECO](Arco.png)
+
+*  ARCO  
+![ARCO](Arco.png)
+
 
 - LLMS
+  
   - CHAT GPT
- ![CHATGPT](chatgpt4.png) 
+![CHATGPT](CHATGPT.png) 
+ 
   - GEMINI
 ![GEMINI](gemini.svg) 
+
   - LLAMA
-![LAMA](llama.jpeg)     
-*  Class material
-   
+![LLAMA](LLAMA.png)     
+
+*  Class material 
    ![ARCO](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Seal_of_the_University_of_Bologna.svg/100px-Seal_of_the_University_of_Bologna.svg.png)
   
 
