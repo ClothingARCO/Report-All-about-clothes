@@ -19,13 +19,14 @@ Take into account that Craftsmanship is the skill that someone uses when they ma
 4. Could you use the ArCo clothing ontology? 
 
 
-
-
+|            |
+______________
 
 
 Enhance the "a-cd:subject" Relationship
 Cultural Property: Cappotto, maschile – Novità Confezioni Italiane Eleganza (XX secolo)
 Owner: Damiano Chiesa
+
 What are the craftsmanship techniques used in the 'Cappotto, maschile – Novità Confezioni Italiane Eleganza'?
 Take into account that Craftsmanship is the skill that someone uses when they make beautiful things with their hands.
 
