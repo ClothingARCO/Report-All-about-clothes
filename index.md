@@ -27,9 +27,11 @@ In the following parts you will have information about the methodology, results 
 
 - LLMS
   - CHAT GPT
+ ![CHATGPT](chatgpt4.png) 
   - GEMINI
+![GEMINI](gemini.svg) 
   - LLAMA
-    
+![LAMA](llama.jpeg)     
 *  Class material
    
    ![ARCO](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Seal_of_the_University_of_Bologna.svg/100px-Seal_of_the_University_of_Bologna.svg.png)
