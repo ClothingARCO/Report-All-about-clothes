@@ -24,7 +24,7 @@ Take into account that Craftsmanship is the skill that someone uses when they ma
 
 
 
-Enhance the "a-cd:subject" Relationship
+## Enhance the "a-cd:subject" Relationship
 Cultural Property: Cappotto, maschile – Novità Confezioni Italiane Eleganza (XX secolo)
 Owner: Damiano Chiesa
 
@@ -110,7 +110,7 @@ Replace the example URIs with the actual URIs from the relevant ontologies.
 
 
 
-**Can you extract exactly what the main topics are based on this answer?**
+## Can you extract exactly what the main topics are based on this answer?
 
 **- Chat GPT**
 
@@ -155,7 +155,7 @@ The main topics covered in this answer are:
 
    
 
-**Could you transform this description into RDF format? Explain the process for getting this RDF format.**
+## Could you transform this description into RDF format? Explain the process for getting this RDF format.
 
 
 - **Chat GPT**
@@ -253,7 +253,7 @@ In this RDF representation:
 
  Absolutely! Here's the description transformed into RDF format using the approach we discussed:
 
-**Part 1: Description of the Coat**
+Part 1: Description of the Coat
 
 ```rdf
 <rdf:Description rdf:about="http://example.org/cappotto_maschile">
@@ -301,7 +301,7 @@ This approach provides a more comprehensive representation of the available info
 
 
 
-**Could you use the ArCo clothing ontology?**
+## Could you use the ArCo clothing ontology?
 
 
 - **Chat GBT**
