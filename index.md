@@ -15,7 +15,7 @@ In the following parts you will have information about the methodology, results 
 > The tools used for developing this project were: 
 >
 *  GITHUB
-![Github-Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
+![Github-Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/100px-GitHub_Invertocat_Logo.svg.png)
 
 *  SPARQL
 ![SPARQL](https://clhwogtywa.cloudimg.io/www.census.de/wp-content/uploads/sparql-logo-scaled.jpg)
