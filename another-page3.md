@@ -20,7 +20,7 @@ Language, Society and Communication - Laurea Magistrale
 
 ## LAURA PODARU
 
-![LAURA](LauraPodaru.jpeg)
+![LAURA](LauraPodaru(1).jpeg)
 
 Università di Bologna
 Modena, Italy
