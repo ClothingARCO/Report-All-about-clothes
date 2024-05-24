@@ -2,7 +2,7 @@
 
 ## AURORA ARNONE
 
-![AURORA](AuroraArnone.jpg)
+![AURORA](AuroraArnone.jpeg)
 
 Università di Bologna
 
@@ -29,7 +29,7 @@ Language, Society and Communication - Laurea Magistrale
 
 ## JULIANA TAPIA
 
-![JULIANA](JulianaTapia.jpg)
+![JULIANA](JulianaTapia.jpeg)
 
 Universidad Nacional de Colombia
 
