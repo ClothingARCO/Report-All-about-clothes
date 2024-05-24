@@ -6,7 +6,7 @@ layout: default
 >
 ## PROMPTING TECHNIQUES
 
-The LLMS used were: CHAT GPT, LLAMA,  GEMINI.
+The **LLMS** used were: CHAT GPT, LLAMA,  GEMINI.
 
 The prompting techniques used were Zero-shot Prompting, Few-Shot Prompting, Chain-of-thought, and Generated-knowledge-prompting. To enrich the knowledge graph we asked the following questions:
 1. Enhance the "a-cd:subject" Relationship
