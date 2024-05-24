@@ -12,6 +12,8 @@ Palermo, Italy
 
 ## ALENA VULF
 
+![ALENA](AlenaVulf.jpg)
+
 Università di Bologna
 
 Language, Society and Communication - Laurea Magistrale
