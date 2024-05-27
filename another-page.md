@@ -405,25 +405,25 @@ You can further enrich this description by adding more techniques relevant to 20
 
 This approach leverages the ArCo ontology for the coat itself and for describing potential tailoring techniques used during the creation of the garment. 
 
- ## Question 1: Craftsmanship Techniques: When asked about the craftsmanship techniques used in a specific item of clothing:
+## Question 1: Craftsmanship Techniques: When asked about the craftsmanship techniques used in a specific item of clothing:
 
  - ChatGPT might provide a more detailed and context-rich description due to its extensive training.
  - LLAMA might offer a concise response, focusing on the key points without much elaboration.
  - Gemini might vary, potentially showing strengths in certain niche topics depending on its training data
 
- ## Question 2: Main Topics Extraction: In zero-shot prompting:
+## Question 2: Main Topics Extraction: In zero-shot prompting:
 
  - ChatGPT's answer might be comprehensive, leveraging its broad training data to cover multiple aspects.       
  - LLAMA might provide a more direct and focused list.      
  - Gemini could differ in its ability to extract and prioritize topics based on its unique training and tuning.
 
- ## Question 3: RDF Format Transformation: Chain-of-thought prompting:
+## Question 3: RDF Format Transformation: Chain-of-thought prompting:
 
  - ChatGPT is likely to break down the steps in a detailed manner.
  - LLAMA might provide a step-by-step guide but in a more concise format.
  - Gemini might show variability in depth and clarity based on how well it was trained on similar tasks.
 
- ## Question 4: Using ArCo Ontology: Generated-knowledge prompting:
+## Question 4: Using ArCo Ontology: Generated-knowledge prompting:
 
  - ChatGPT might integrate previous responses effectively, providing a coherent and contextually aware answer.
  - LLAMA might excel in consistency and relevance.
