@@ -131,20 +131,6 @@ PREFIX arco: <https://w3id.org/arco/ontology/arco/>
 PREFIX cis: <http://dati.beniculturali.it/cis/>
 PREFIX a-cd: <https://w3id.org/arco/ontology/clothing-description/>
 PREFIX dc: <http://purl.org/dc/elements/1.1/>
-PREFIX a-dd: <https://w3id.org/arco/ontology/denotative-description/>
-
-SELECT *
-WHERE {
-  ?ArtisticProperty rdf:type a-cd:Clothing ;
-                    rdfs:label ?label ;
-                    dc:creator <https://w3id.org/arco/resource/Agent/5c2b2a7e6b736bd45176a1270f1063db> ;
-                    a-dd:hasMaterial ?material .
-  FILTER(REGEX(?label, "abito da sposa", "i"))PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX arco: <https://w3id.org/arco/ontology/arco/>
-PREFIX cis: <http://dati.beniculturali.it/cis/>
-PREFIX a-cd: <https://w3id.org/arco/ontology/clothing-description/>
-PREFIX dc: <http://purl.org/dc/elements/1.1/>
 
 SELECT *
 WHERE {
