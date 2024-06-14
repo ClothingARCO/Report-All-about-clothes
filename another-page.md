@@ -59,6 +59,8 @@ Overall, the wedding costume is a beautiful and elegant ensemble that would have
 
 
 ## GIACCA (IMAGE)
+
+```js
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX arco: <https://w3id.org/arco/ontology/arco/>
 PREFIX cis: <http://dati.beniculturali.it/cis/>
@@ -70,8 +72,10 @@ WHERE {
 rdfs:label ?label
 FILTER(REGEX(?label, "giacca, da nozze", "i"))
 }
+```
 
 ## CAPPELLO- (NONE)
+```js
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX arco: <https://w3id.org/arco/ontology/arco/>
 PREFIX cis: <http://dati.beniculturali.it/cis/>
@@ -83,8 +87,9 @@ WHERE {
 rdfs:label ?label
 FILTER(REGEX(?label, “cappello da nozze”, “i”))
 }
+```
 
-## Enriching on other clothes by Marucelli Germana exposed in the same museum
+### Enriching on other clothes by Marucelli Germana exposed in the same museum
 
 
 ## What are the other clothes by Marucelli Germana exposed in Galleria del costume, in Firenze?
