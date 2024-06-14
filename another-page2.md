@@ -139,5 +139,6 @@ WHERE {
   FILTER(REGEX(?label, "da nozze", "i"))
 OPTIONAL {?ArtisticProperty a-cd:depiction ?depiction }
 }
+
 ```
 [back](./)
