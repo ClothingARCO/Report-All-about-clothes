@@ -5,10 +5,13 @@ layout: default
 
 This project is part of an academic assessment for the "Information and Technology Skills" course in the Master's program "Language, Society, and Communication" at the University of Bologna.
 
-It focuses on analyzing and using knowledge graphs from ARCO and Large Language Models. The selected ARCO ontology was about clothing description. The main goal of using this ontology is to explore clothing characteristics and compare LLMS with the better option to enrich the knowledge graph.
+Our project focuses on analyzing and using knowledge graphs from ARCO and Large Language Models, The selected ARCO ontology was about clothing description. 
+
+GOAL: to explore the characteristics of wedding dresses that are cataloged in the clothing description ontology. In particular, we focused on the materials and creators. After gathering information on these two elements, we decided to choose the creator Germana Marucelli as the focal point for the second part of our project. 
+
+Germana Marucelli was an influential Italian fashion designer known for her innovative and elegant designs and she played a key role in establishing Italy as a global fashion hub.  
 
 In the following parts you will have information about the methodology, results and analysis, discussion, conclusion and possible future developments.
-
 
 # [METHODOLOGY](./another-page.html).
 
@@ -31,9 +34,7 @@ In the following parts you will have information about the methodology, results 
  
   - GEMINI
 ![GEMINI](gemini.svg) 
-
-  - LLAMA
-![LLAMA](LLAMA.png)     
+  
 
 *  Class material 
    ![ARCO](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Seal_of_the_University_of_Bologna.svg/100px-Seal_of_the_University_of_Bologna.svg.png)
@@ -43,9 +44,9 @@ In the following parts you will have information about the methodology, results 
 
 | Problem        | Solution        | 
 |:-------------|:------------------|
-| There is a lot of information on the ARCO ontology| We had to limit a few results because the query took so much time to charge results| 
-| Some information from the ARCO clothing ontology did not appear, as it is the case of bottom items. | We decided to use the general clothing information. | 
-| There were some results which belonged to different ontologies.    | We searched for more specific vocabulary to use and checked the prefixes.     | 
+| dc:type abito da sposa showed a few results because it is too specific. | Filtering the results to obtain more. | 
+| LLM answers were very general and vague on knowledge. Gemini sometimes did not showed results. | Provide more information and use more prompting techniques. | 
+| Understand how to use Github to create an intuitive and userfriendly website. | Collectively trying with different templates as well as getting external feedback about the design.| 
 
 # [ABOUT THE CREATORS](./another-page3.html).
 ```
