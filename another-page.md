@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# METHODOLOGY
+# METHODOLOGY.
 >
 ## PROMPTING TECHNIQUES
 
