@@ -121,6 +121,7 @@ WHERE {
                     dc:creator <https://w3id.org/arco/resource/Agent/5c2b2a7e6b736bd45176a1270f1063db> ;
                     a-dd:hasMaterial ?material .
   FILTER(REGEX(?label, "abito da sposa", "i"))
+}
 ```
 ## Which are the wedding dresses made of silk which have Marucelli Germana as the creator? For all results provide the depiction if any is available.
 ```js
