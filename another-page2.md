@@ -4,7 +4,6 @@ layout: default
 
 # SPARQL QUERIES
 
-
 ## FIND ALL THE ITEMS “abito da sposa” PRESENT IN THE CLOTHING DESCRIPTION ONTOLOGY 
 ```js
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
