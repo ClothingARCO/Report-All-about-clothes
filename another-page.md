@@ -133,7 +133,7 @@ Crisalide (Chrysalis): This dress symbolizes transformation and evolution, with 
 
 These pieces are part of a larger collection that includes not only clothing but also jewelry, artworks, and sketches, highlighting Marucelli's multidisciplinary approach and her role as a pioneer in the fusion of fashion and art​ (ARTEMORBIDA)​​ (www.okfirenze.com)​​ (Destination Florence)​​ (Le Gallerie degli Uffizi Shop)​.
 
-
+```js
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX arco: <https://w3id.org/arco/ontology/arco/>
@@ -148,7 +148,7 @@ WHERE {
                     dc:creator <https://w3id.org/arco/resource/Agent/5c2b2a7e6b736bd45176a1270f1063db> .
   FILTER(REGEX(?label, "la donna cinetica", "i"))
 }
-
+```
 >
 ## [SPARQL QUERIES](./another-page2.html)
 
